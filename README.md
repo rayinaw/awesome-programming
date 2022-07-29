@@ -2,4 +2,4 @@
 
 ## Golang
 ### JSON
-https://www.sohamkamani.com/golang/json/#unmarshaling-raw-json-data
+https://www.sohamkamani.com/golang/json/
